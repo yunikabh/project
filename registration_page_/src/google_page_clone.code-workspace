@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../Assignment/google_page_clone"
+		},
+		{
+			"path": "../../../Assignment/fb_page_clone"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../project1"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
